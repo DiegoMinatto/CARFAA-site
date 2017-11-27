@@ -1,0 +1,56 @@
+.estiloDropdown{
+	color: white;
+}
+.estiloDropdown:hover{
+	color: white;
+	text-decoration: none;
+}
+.divDados{
+	width: 2000px;
+	height: 494px;
+	border-right: 100px;
+	border-left: 100px;
+}
+
+#divConteudo{
+	background-color: blue;
+	width: 400px;
+	height: 400px;
+}
+.divSeparadora{
+	width: 200px;
+}
+.divTabela{
+	width: 800px;
+	position:absolute; 
+	left:700px;
+	 top:10px;
+}
+
+#divControles{
+	width: 400px;
+	height: 400px;
+	
+}
+#groupBotoes{
+
+	border:1px solid black;
+	width: 400px;
+	height: 355px;
+}
+.bordaGrupo{
+
+}
+.btnFunc{
+	width: 130px;
+}
+.btnFunc1{
+	width: 200px;
+}
+#spawnRD{
+	color: red;
+	font-size: 15px;
+}
+.hide{
+	visibility: hidden;
+}

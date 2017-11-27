@@ -1,0 +1,16 @@
+
+.divMensagem{
+	position: fixed;
+height: 85px;
+}
+
+.divMensagemSenha{
+	position: fixed;
+height: 101px;
+}
+
+.divSenha{
+	position: fixed;
+height: 126px;
+	background-color: blue;
+}
